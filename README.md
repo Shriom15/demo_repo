@@ -1,3 +1,3 @@
 # demo_repo
-<b>BOLD Line</b><br>
+<b><marquee>BOLD Line</marquee></b><br>
 Learning Github
